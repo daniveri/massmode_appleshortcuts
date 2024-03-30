@@ -1,0 +1,48 @@
+ {
+    "sitios": [
+      {
+        "id": 1,
+        "nombre": "asuncion",
+        "activar_modo_concentracion": true,
+        "latitud": 39.48630528516719,
+        "longitud": -0.35937766975346314
+      },
+      {
+        "id": 2,
+        "nombre": "nsmilagro_maxkolbe",
+        "activar_modo_concentracion": true,
+        "latitud": 39.48281456407803,
+        "longitud": -0.3545366524561965
+      },
+      {
+        "id": 3,
+        "nombre": "sanlo",
+        "activar_modo_concentracion": true,
+        "latitud": 39.486506112504244,
+        "longitud": -0.3633568320553673
+      },
+      {
+        "id": 4,
+        "nombre": "sanisi",
+        "activar_modo_concentracion": true,
+        "latitud": 39.483018469597056 ,
+        "longitud": -0.3636351443425697
+      },
+      {
+        "id": 5,
+        "nombre": "basil_desamp",
+        "activar_modo_concentracion": true,
+        "latitud": 39.47624797079262,
+        "longitud":  -0.37482639184106953 
+      },
+      {
+        "id": 6,
+        "nombre": "catedral",
+        "activar_modo_concentracion": true,
+        "latitud": 39.47562041882645,
+        "longitud": -0.3751056963082227 
+      }
+
+    ]
+  
+}
